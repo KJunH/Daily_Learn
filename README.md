@@ -1,2 +1,3 @@
-# Daily_Learn
-Daily study to improve myself.
+# Daily study to improve myself
+
+### Beginning October 1, 2020
